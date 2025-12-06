@@ -1,7 +1,7 @@
 {
-  "name": "curso-cypress-v2",
+  "name": "cac-tat-automation",
   "version": "1.0.0",
-  "description": "Repositório da versão 2 do curso básico de Cypress da Escola Talking About Testing",
+"description": "Projeto de automação de testes End-to-End para a aplicação Central de Atendimento ao Cliente TAT utilizando Cypress.",
   "main": "src/index.html",
   "scripts": {
     "cy:open": "cypress open",
